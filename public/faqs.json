@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Why do I have to pay a service fee?",
+    "answer": "An $85 service fee applies when the repair is not covered by warranty. GST of 15% is added to the total shown on your booking."
+  },
+  {
+    "question": "What is the bond for?",
+    "answer": "The bond is a deposit for the courtesy phone and charger while your device is being repaired. Consumer bookings include the selected items’ bond; business customers are not charged a bond. Ask the employee about return and refund conditions."
+  },
+  {
+    "question": "Do I need a charger with my courtesy phone?",
+    "answer": "Choose a charger if you do not already have one compatible with the courtesy phone. You can borrow one phone and one charger. Each has its own bond."
+  },
+  {
+    "question": "Why isn’t my phone under warranty?",
+    "answer": "Phones purchased more than 24 months ago are not eligible for the warranty checkbox. For newer phones, the employee should confirm coverage before checking the box."
+  },
+  {
+    "question": "Can I change my courtesy phone?",
+    "answer": "Select another phone and choose Add / change item. It replaces the previous phone. Chargers work the same way. Use Remove beside an item to remove it from the booking."
+  },
+  {
+    "question": "When can I book a repair?",
+    "answer": "Choose a repair date after today and after the purchase date, then select a repair time. The purchase date must be before today."
+  },
+  {
+    "question": "Where can I find my IMEI number?",
+    "answer": "Your IMEI is a 15-digit device identifier. Look in your phone’s About settings or on its original packaging."
+  },
+  {
+    "question": "How is the total calculated?",
+    "answer": "The total before GST is the applicable courtesy bond plus the service fee. GST is 15% of that amount, rounded to cents. Total (+GST) includes both."
+  }
+]
